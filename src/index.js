@@ -22,18 +22,3 @@ while (a == 0) {
   break
 }
 }
-
-var obj = {
-name1 : "H"
-age1 : Number(H)
-name2 : "P"
-age : P
-name3 : "Q"
-age: Q
-name4: "N"
-age: N
-name5: "M"
-age: M
-}
-return (a): (obj.name1 : obj.age1, obj.name2 : obj.nominal2, obj.name3 : obj.nomnal3, obj.name4 : obj.nominal4, obj.name5 : obj.nominal5)
-}
